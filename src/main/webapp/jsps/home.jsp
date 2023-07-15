@@ -9,8 +9,8 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Mithun Technologies Here I am using Poll SCM build trigger. Ph No: +91-9980923226 ,+91-9980923216 Marathahalli,Bengaluru,Karnataka </h1>
-<h1 align="center"> Poll SCM Mithun Technologies- Very Good Training center for DevOps with AWS in Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
+<h1 align="center">Welcome to Mithun Technologies Here I am using GITHUB webhook build trigger. Ph No: +91-9980923226 ,+91-9980923216 Marathahalli,Bengaluru,Karnataka </h1>
+<h1 align="center"> weebhook Mithun Technologies- Very Good Training center for DevOps with AWS in Bangalore India and also for Job Assitance Job Support also...Teaching Real Time scnerios</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
